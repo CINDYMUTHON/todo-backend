@@ -1,0 +1,20 @@
+TEST OUR API
+CREATE LOGIN AND REGISTER UI => CONSUME THEM
+CI/CD WITH firebase & Github Actions
+    -> workflows
+    -> jobs
+    -> firebase hosting
+    -> deployment
+
+TASKS TO COMPLETE
+
+1. create a landing page 
+    -> redirected to the login screen/ register screen
+    -> a page to add and view tasks of the currently logged in user to complete 
+        -> once a task is complete it should be stroked out => status will change
+        -> have a delete option for any given tasks
+        -> have an edit fot any given task
+    -> a page to filter all complete and incomplete tasks
+    -> logout functionality
+
+2. Make sure to add the 
